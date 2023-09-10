@@ -26,5 +26,3 @@ formats: all
 python:
   install:
     - requirements: source/requirements.txt
-    - method: pip
-      path: .
