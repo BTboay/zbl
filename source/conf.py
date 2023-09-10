@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = '资本论-平衡与边界'
+project = '资本论——平衡与边界'
 copyright = '2023, 卢麒元 李卞'
 author = '卢麒元 李卞'
-release = 'v0.1'
+release = 'v1.0'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
