@@ -20,3 +20,4 @@
    docs/马克思主义的哲学源泉/index
    docs/共产主义源泉/index
    docs/东马西马新马/index
+   docs/资本论的目的/index
