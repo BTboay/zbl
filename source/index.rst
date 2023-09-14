@@ -14,10 +14,11 @@
 
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
 
    docs/两次革命和两个宰相/index
    docs/马克思主义的哲学源泉/index
    docs/共产主义源泉/index
    docs/东马西马新马/index
    docs/资本论的目的/index
+   docs/价值论与价值观/index
