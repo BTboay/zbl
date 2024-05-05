@@ -23,3 +23,4 @@
    docs/资本论的目的/index
    docs/价值论与价值观/index
    docs/货币/index
+   docs/劳动/index
