@@ -25,3 +25,4 @@
    docs/货币/index
    docs/劳动/index
    docs/商品/index
+   docs/资本/index
