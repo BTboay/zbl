@@ -26,3 +26,4 @@
    docs/劳动/index
    docs/商品/index
    docs/资本/index
+   docs/资本积累的秘密/index
