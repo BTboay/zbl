@@ -22,6 +22,8 @@ exclude_patterns = []
 
 language = 'zh_CN'
 
+latex_engine = 'xelatex'
+
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
